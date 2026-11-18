@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/model/Livestock.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/LoginForm.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/controller/UserController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/service/LivestockService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/model/EmployeeContract.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/test/TestAllServices.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/AddFertilizerDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/CropForm.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/LivestockForm.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/BaseForm.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/model/Employee.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/model/User.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/SignUpForm.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/AddCropDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/service/EmployeeContractService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/AddContractDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/AddLivestockDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/model/Crop.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/service/EmployeeService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/controller/EmployeeContractController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/AddEmployeeDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/BaseDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/model/Fertilizer.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/EmployeeForm.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/controller/LivestockController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/util/SessionManager.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/service/UserService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/NotificationsDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/util/TranslationManager.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/ReportDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/service/FertilizerService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/controller/ReportController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/service/CropService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/FarmMgtSystemClient27120/src/view/DashboardFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
